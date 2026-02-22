@@ -1,10 +1,9 @@
 class Solution:
     def lengthOfLastWord(self, s: str) -> int:
-        sList = list(s)
         lastCount = 0
         check = 0
-        for i in range(len(sList)):
-            if(sList[i] == ' '):
+        for i in range(len(s)):
+            if(s[i] == ' '):
                 check = 1
             else:
                 if(check == 1):
