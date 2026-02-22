@@ -12,3 +12,15 @@ This repository contains my solutions to various LeetCode problems.
 ---
 
 Feel free to explore, learn, or compare approaches.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0704-binary-search) |
+<!---LeetCode Topics End-->
