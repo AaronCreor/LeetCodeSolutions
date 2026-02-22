@@ -11,7 +11,4 @@ class Solution:
                 right = pointer-1
             else:
                 left = pointer+1
-        if(target > nums[pointer]):
-            return pointer+1
-        else:
-            return pointer
+        return left
