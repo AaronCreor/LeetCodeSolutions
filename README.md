@@ -29,5 +29,10 @@ Feel free to explore, learn, or compare approaches.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0338-counting-bits) |
 | [0868-binary-gap](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0868-binary-gap) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
