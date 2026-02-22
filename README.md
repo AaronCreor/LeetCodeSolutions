@@ -35,4 +35,8 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0338-counting-bits) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
