@@ -23,4 +23,8 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0704-binary-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0868-binary-gap](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0868-binary-gap) |
 <!---LeetCode Topics End-->
