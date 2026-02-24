@@ -20,6 +20,7 @@ Feel free to explore, learn, or compare approaches.
 | ------- |
 | [0035-search-insert-position](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0136-single-number) |
+| [0605-can-place-flowers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Binary Search
@@ -67,4 +68,8 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
