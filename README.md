@@ -112,6 +112,7 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0197-rising-temperature) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Prefix Sum
 |  |
 | ------- |
