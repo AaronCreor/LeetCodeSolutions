@@ -104,4 +104,8 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
