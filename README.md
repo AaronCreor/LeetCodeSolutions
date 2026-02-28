@@ -33,6 +33,7 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0035-search-insert-position) |
+| [0374-guess-number-higher-or-lower](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -134,4 +135,8 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
