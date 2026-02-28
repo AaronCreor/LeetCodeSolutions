@@ -27,6 +27,7 @@ Feel free to explore, learn, or compare approaches.
 | [0704-binary-search](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0704-binary-search) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1732-find-the-highest-altitude](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Binary Search
 |  |
@@ -108,4 +109,8 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0197-rising-temperature) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
