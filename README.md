@@ -56,6 +56,7 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -99,6 +100,7 @@ Feel free to explore, learn, or compare approaches.
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
