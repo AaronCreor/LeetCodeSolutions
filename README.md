@@ -57,6 +57,7 @@ Feel free to explore, learn, or compare approaches.
 | ------- |
 | [0058-length-of-last-word](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -68,6 +69,7 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Rolling Hash
@@ -107,6 +109,7 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
