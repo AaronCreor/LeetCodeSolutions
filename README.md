@@ -41,6 +41,7 @@ Feel free to explore, learn, or compare approaches.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0338-counting-bits) |
 | [0868-binary-gap](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0868-binary-gap) |
@@ -56,6 +57,7 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -122,6 +124,7 @@ Feel free to explore, learn, or compare approaches.
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -138,6 +141,7 @@ Feel free to explore, learn, or compare approaches.
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Breadth-First Search
