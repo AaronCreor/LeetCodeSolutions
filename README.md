@@ -59,6 +59,7 @@ Feel free to explore, learn, or compare approaches.
 | [0058-length-of-last-word](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -144,6 +145,7 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Breadth-First Search
