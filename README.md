@@ -128,6 +128,7 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0258-add-digits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -146,6 +147,7 @@ Feel free to explore, learn, or compare approaches.
 | ------- |
 | [0067-add-binary](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0258-add-digits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Breadth-First Search
@@ -173,4 +175,8 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
