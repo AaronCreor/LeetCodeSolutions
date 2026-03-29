@@ -32,6 +32,7 @@ Feel free to explore, learn, or compare approaches.
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2974-minimum-number-game](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Feel free to explore, learn, or compare approaches.
 | [0217-contains-duplicate](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2974-minimum-number-game](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2974-minimum-number-game) |
 ## Counting
 |  |
 | ------- |
@@ -135,6 +137,7 @@ Feel free to explore, learn, or compare approaches.
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2974-minimum-number-game](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2974-minimum-number-game) |
 ## Database
 |  |
 | ------- |
@@ -186,4 +189,8 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
