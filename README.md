@@ -34,6 +34,7 @@ Feel free to explore, learn, or compare approaches.
 | [1732-find-the-highest-altitude](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2974-minimum-number-game](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2974-minimum-number-game) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Feel free to explore, learn, or compare approaches.
 | [0387-first-unique-character-in-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Rolling Hash
 |  |
 | ------- |
