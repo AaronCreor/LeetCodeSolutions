@@ -161,6 +161,7 @@ Feel free to explore, learn, or compare approaches.
 | [0171-excel-sheet-column-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0258-add-digits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Breadth-First Search
 |  |
