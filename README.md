@@ -31,6 +31,7 @@ Feel free to explore, learn, or compare approaches.
 | [0643-maximum-average-subarray-i](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -62,6 +63,7 @@ Feel free to explore, learn, or compare approaches.
 | ------- |
 | [0070-climbing-stairs](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0338-counting-bits) |
+| [0746-min-cost-climbing-stairs](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 ## String
 |  |
 | ------- |
