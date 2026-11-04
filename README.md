@@ -60,6 +60,7 @@ Feel free to explore, learn, or compare approaches.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0338-counting-bits) |
 ## String
 |  |
@@ -171,6 +172,7 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0258-add-digits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -230,4 +232,8 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
