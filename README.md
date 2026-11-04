@@ -18,6 +18,7 @@ Feel free to explore, learn, or compare approaches.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0136-single-number) |
@@ -79,6 +80,7 @@ Feel free to explore, learn, or compare approaches.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
