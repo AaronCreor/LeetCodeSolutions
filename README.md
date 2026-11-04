@@ -26,6 +26,7 @@ Feel free to explore, learn, or compare approaches.
 | [0217-contains-duplicate](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0682-baseball-game) |
@@ -114,6 +115,7 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0605-can-place-flowers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -125,6 +127,7 @@ Feel free to explore, learn, or compare approaches.
 | [0283-move-zeroes](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +135,7 @@ Feel free to explore, learn, or compare approaches.
 | [0075-sort-colors](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0242-valid-anagram) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2974-minimum-number-game](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2974-minimum-number-game) |
 ## Counting
@@ -212,6 +216,7 @@ Feel free to explore, learn, or compare approaches.
 ## Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0682-baseball-game) |
 ## Quicksort
 |  |
@@ -221,4 +226,8 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0075-sort-colors) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
