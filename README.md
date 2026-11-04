@@ -19,6 +19,7 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0283-move-zeroes) |
@@ -114,6 +115,7 @@ Feel free to explore, learn, or compare approaches.
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0344-reverse-string) |
@@ -121,6 +123,7 @@ Feel free to explore, learn, or compare approaches.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -204,4 +207,12 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0682-baseball-game) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
