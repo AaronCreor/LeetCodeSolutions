@@ -46,6 +46,7 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0374-guess-number-higher-or-lower](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -178,6 +179,7 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0258-add-digits) |
@@ -242,4 +244,8 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
