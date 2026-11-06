@@ -137,6 +137,7 @@ Feel free to explore, learn, or compare approaches.
 | [0344-reverse-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0876-middle-of-the-linked-list](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
@@ -254,4 +255,8 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
