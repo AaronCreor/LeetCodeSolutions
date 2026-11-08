@@ -6,14 +6,19 @@
 from collections import deque
 class Solution:
     def isPalindrome(self, head: ListNode | None) -> bool:
-        pal = ""
         current = head
+        stackL = deque()
+        stackR = deque()
         while current.next:
-            pal+=(str(current.val))
+            stackL.appendleft(current.val)
+            stackR.append(current.val)
             current=current.next
-        pal+=(str(current.val))
-        if pal[:] == pal[::-1]:
+        stackL.appendleft(current.val)
+        stackR.append(current.val)
+        if stackL == stackR:
             return True
         else:
             return False
+        
+
 
