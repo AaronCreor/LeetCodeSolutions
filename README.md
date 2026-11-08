@@ -40,6 +40,7 @@ Feel free to explore, learn, or compare approaches.
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
+| [2073-time-needed-to-buy-tickets](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2974-minimum-number-game) |
@@ -173,6 +174,7 @@ Feel free to explore, learn, or compare approaches.
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2974-minimum-number-game) |
 ## Database
@@ -230,6 +232,7 @@ Feel free to explore, learn, or compare approaches.
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
