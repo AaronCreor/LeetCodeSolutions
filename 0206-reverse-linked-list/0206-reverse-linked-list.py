@@ -9,7 +9,6 @@ class Solution:
             return head
         curr = head
         prev = None
-        next = curr.next
         while curr is not None:
             next = curr.next
             curr.next = prev
