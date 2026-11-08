@@ -113,6 +113,7 @@ Feel free to explore, learn, or compare approaches.
 ## Tree
 |  |
 | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -121,6 +122,7 @@ Feel free to explore, learn, or compare approaches.
 ## Binary Tree
 |  |
 | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Greedy
 |  |
@@ -279,4 +281,8 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
