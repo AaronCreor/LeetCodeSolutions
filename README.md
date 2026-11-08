@@ -223,6 +223,7 @@ Feel free to explore, learn, or compare approaches.
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Number Theory
@@ -271,6 +272,7 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
