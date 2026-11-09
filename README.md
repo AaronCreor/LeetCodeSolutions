@@ -22,6 +22,7 @@ Feel free to explore, learn, or compare approaches.
 | [0035-search-insert-position](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0283-move-zeroes) |
@@ -94,6 +95,7 @@ Feel free to explore, learn, or compare approaches.
 | ------- |
 | [0001-two-sum](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0242-valid-anagram) |
@@ -208,6 +210,7 @@ Feel free to explore, learn, or compare approaches.
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
 |  |
