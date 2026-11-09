@@ -74,6 +74,7 @@ Feel free to explore, learn, or compare approaches.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0067-add-binary) |
@@ -94,6 +95,7 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
@@ -168,6 +170,7 @@ Feel free to explore, learn, or compare approaches.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 ## Simulation
 |  |
