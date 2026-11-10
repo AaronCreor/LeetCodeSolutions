@@ -19,6 +19,7 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0075-sort-colors) |
@@ -136,6 +137,7 @@ Feel free to explore, learn, or compare approaches.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0605-can-place-flowers) |
@@ -145,6 +147,7 @@ Feel free to explore, learn, or compare approaches.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
