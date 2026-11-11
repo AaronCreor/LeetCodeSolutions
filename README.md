@@ -144,6 +144,7 @@ Feel free to explore, learn, or compare approaches.
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Two Pointers
 |  |
 | ------- |
@@ -215,6 +216,7 @@ Feel free to explore, learn, or compare approaches.
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Breadth-First Search
 |  |
 | ------- |
