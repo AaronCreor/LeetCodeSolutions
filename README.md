@@ -47,6 +47,7 @@ Feel free to explore, learn, or compare approaches.
 | [2215-find-the-difference-of-two-arrays](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2974-minimum-number-game) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
