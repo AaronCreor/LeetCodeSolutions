@@ -20,6 +20,7 @@ Feel free to explore, learn, or compare approaches.
 | ------- |
 | [0001-two-sum](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0075-sort-colors) |
@@ -154,6 +155,7 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
@@ -168,6 +170,7 @@ Feel free to explore, learn, or compare approaches.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
