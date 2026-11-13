@@ -23,6 +23,7 @@ Feel free to explore, learn, or compare approaches.
 | [0015-3sum](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0136-single-number) |
@@ -172,6 +173,7 @@ Feel free to explore, learn, or compare approaches.
 | ------- |
 | [0015-3sum](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0242-valid-anagram) |
@@ -282,6 +284,7 @@ Feel free to explore, learn, or compare approaches.
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
