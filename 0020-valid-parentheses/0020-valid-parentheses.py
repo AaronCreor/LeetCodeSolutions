@@ -2,25 +2,17 @@ from collections import deque
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        closeToOpen = {")":"(", "]":"[", "}":"{"}
+        openToClose = {")":"(","}":"{","]":"["}
         for c in s:
-            if c in closeToOpen:
-                if stack != [] and stack[-1] == closeToOpen[c]:
+            if stack and c in openToClose:
+                if stack[-1] == openToClose[c]:
                     stack.pop()
                 else:
                     return False
             else:
                 stack.append(c)
-        return True if not stack else False
-
-
-        #stack = deque(s)
-        #while stack:
-        #    if stack.peak == '[' and pointer == ']':
-        #
-        #    elif localP == '{' and pointer == '}':
-        #
-        #    elif localP == '(' and pointer == ')':
-
-            
+        if stack:
+             return False 
+        else:
+             return True
             
