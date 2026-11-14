@@ -84,6 +84,7 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0067-add-binary) |
@@ -277,6 +278,7 @@ Feel free to explore, learn, or compare approaches.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0682-baseball-game) |
@@ -322,4 +324,8 @@ Feel free to explore, learn, or compare approaches.
 | ------- |
 | [0133-clone-graph](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0133-clone-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
