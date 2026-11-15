@@ -37,6 +37,7 @@ Feel free to explore, learn, or compare approaches.
 | [0682-baseball-game](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
+| [1046-last-stone-weight](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1046-last-stone-weight) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -279,6 +280,7 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0767-reorganize-string) |
+| [1046-last-stone-weight](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1046-last-stone-weight) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2974-minimum-number-game) |
 ## Stack
