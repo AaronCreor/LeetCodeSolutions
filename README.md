@@ -31,6 +31,7 @@ Feel free to explore, learn, or compare approaches.
 | [0268-missing-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0506-relative-ranks](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0506-relative-ranks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
@@ -183,6 +184,7 @@ Feel free to explore, learn, or compare approaches.
 | [0217-contains-duplicate](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0506-relative-ranks](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0506-relative-ranks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0767-reorganize-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0767-reorganize-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -279,6 +281,7 @@ Feel free to explore, learn, or compare approaches.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0506-relative-ranks) |
 | [0767-reorganize-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1046-last-stone-weight) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
