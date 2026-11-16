@@ -31,6 +31,7 @@ Feel free to explore, learn, or compare approaches.
 | [0268-missing-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0506-relative-ranks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0605-can-place-flowers) |
@@ -119,6 +120,7 @@ Feel free to explore, learn, or compare approaches.
 | [0217-contains-duplicate](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0767-reorganize-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0767-reorganize-string) |
@@ -188,6 +190,7 @@ Feel free to explore, learn, or compare approaches.
 | [0217-contains-duplicate](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0506-relative-ranks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0767-reorganize-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0767-reorganize-string) |
@@ -199,6 +202,7 @@ Feel free to explore, learn, or compare approaches.
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0767-reorganize-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -290,6 +294,7 @@ Feel free to explore, learn, or compare approaches.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0506-relative-ranks) |
 | [0767-reorganize-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1046-last-stone-weight) |
@@ -358,4 +363,16 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0207-course-schedule) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
