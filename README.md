@@ -141,6 +141,7 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -245,6 +246,7 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
@@ -339,9 +341,18 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
