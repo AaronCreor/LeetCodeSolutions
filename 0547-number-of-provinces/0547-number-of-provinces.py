@@ -1,22 +1,23 @@
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
-        def dfs(i):
-            visited.add(i)
-            for j in range(n):
-                if j not in visited and isConnected[i][j] == 1:
-                    dfs(j)
+        provinces = 0
+        seen = set()
+        matrix = defaultdict(list)
 
-
-
-
-        visited = set()
-        n = len(isConnected)
-        components = 0
-        for i in range(n): # 0 to n
-            if i not in visited:
-                dfs(i)
-                components += 1
-        return components
-
-
+        for i in range(len(isConnected)):
+            for j in range(len(isConnected)):
+                if isConnected[i][j] == 1:
+                    matrix[i].append(j)
+        def dfs(root):
+            for node in matrix[root]:
+                if node not in seen:
+                    seen.add(node)
+                    dfs(node)
+        
+        for node in matrix:
+            if node not in seen:
+                seen.add(node)
+                dfs(node)
+                provinces+=1
+        return provinces
 
