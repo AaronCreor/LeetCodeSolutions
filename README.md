@@ -149,6 +149,7 @@ Feel free to explore, learn, or compare approaches.
 | [0207-course-schedule](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -258,12 +259,14 @@ Feel free to explore, learn, or compare approaches.
 | [0133-clone-graph](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
 |  |
@@ -357,6 +360,7 @@ Feel free to explore, learn, or compare approaches.
 | [0133-clone-graph](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Bracket Sequences
 |  |
