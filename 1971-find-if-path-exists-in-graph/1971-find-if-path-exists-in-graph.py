@@ -1,15 +1,5 @@
 class Solution:
     def validPath(self, n: int, edges: list[list[int]], source: int, destination: int) -> bool:
-        def dfs(i):
-            if i == destination:
-                return True
-            for nei_node in graph[i]:
-                if nei_node not in seen:
-                    seen.add(nei_node)
-                    if dfs(nei_node):
-                        return True
-            return False
-
 
         if source == destination:
             return True
@@ -20,6 +10,16 @@ class Solution:
             graph[v].append(u)
         seen = set()
         seen.add(source)
+        stack = [source]
 
-        return dfs(source)
+        while stack:
+            node = stack.pop()
+            if node == destination:
+                return True
+            for nei_node in graph[node]:
+                if nei_node not in seen:
+                    seen.add(nei_node)
+                    stack.append(nei_node)
+
+        return False
         
