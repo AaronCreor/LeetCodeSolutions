@@ -2,12 +2,13 @@ class Solution:
     def validPath(self, n: int, edges: list[list[int]], source: int, destination: int) -> bool:
 
         graph = defaultdict(list)
-
-        for u, v in edges:
-            graph[u].append(v)
-            graph[v].append(u)
         
-        seen = {source}
+
+        for node1, node2 in edges:
+            graph[node1].append(node2)
+            graph[node2].append(node1)
+        seen = set()
+        seen.add(source)
         stack = [source]
 
         while stack:
@@ -16,9 +17,8 @@ class Solution:
                 return True
             for neighbour in graph[node]:
                 if neighbour not in seen:
-                    stack.append(neighbour)
                     seen.add(neighbour)
+                    stack.append(neighbour)
+            
+
         return False
-
-
-        
