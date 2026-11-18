@@ -143,12 +143,14 @@ Feel free to explore, learn, or compare approaches.
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
@@ -160,6 +162,7 @@ Feel free to explore, learn, or compare approaches.
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Greedy
@@ -265,6 +268,7 @@ Feel free to explore, learn, or compare approaches.
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
