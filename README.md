@@ -56,6 +56,7 @@ Feel free to explore, learn, or compare approaches.
 | [2215-find-the-difference-of-two-arrays](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2974-minimum-number-game) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3232-find-if-digit-game-can-be-won) |
