@@ -56,6 +56,7 @@ Feel free to explore, learn, or compare approaches.
 | [2215-find-the-difference-of-two-arrays](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2974-minimum-number-game) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -274,6 +275,7 @@ Feel free to explore, learn, or compare approaches.
 | [0268-missing-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
