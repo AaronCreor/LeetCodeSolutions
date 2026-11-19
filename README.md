@@ -276,6 +276,7 @@ Feel free to explore, learn, or compare approaches.
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2652-sum-multiples](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2652-sum-multiples) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
