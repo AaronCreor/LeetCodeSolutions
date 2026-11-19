@@ -51,6 +51,7 @@ Feel free to explore, learn, or compare approaches.
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -110,6 +111,7 @@ Feel free to explore, learn, or compare approaches.
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Hash Table
 |  |
