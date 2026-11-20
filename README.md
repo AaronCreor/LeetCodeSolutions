@@ -39,6 +39,7 @@ Feel free to explore, learn, or compare approaches.
 | [0643-maximum-average-subarray-i](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1046-last-stone-weight](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1046-last-stone-weight) |
@@ -266,6 +267,7 @@ Feel free to explore, learn, or compare approaches.
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
 ## Math
 |  |
