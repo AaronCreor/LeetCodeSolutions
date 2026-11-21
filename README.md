@@ -92,6 +92,7 @@ Feel free to explore, learn, or compare approaches.
 | ------- |
 | [0070-climbing-stairs](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 ## String
@@ -109,6 +110,7 @@ Feel free to explore, learn, or compare approaches.
 | [0344-reverse-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0657-robot-return-to-origin) |
@@ -210,6 +212,7 @@ Feel free to explore, learn, or compare approaches.
 | [0283-move-zeroes](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
