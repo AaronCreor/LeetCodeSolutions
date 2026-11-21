@@ -44,6 +44,7 @@ Feel free to explore, learn, or compare approaches.
 | [0733-flood-fill](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1046-last-stone-weight](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1046-last-stone-weight) |
+| [1207-unique-number-of-occurrences](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1207-unique-number-of-occurrences) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -140,6 +141,7 @@ Feel free to explore, learn, or compare approaches.
 | [0387-first-unique-character-in-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0767-reorganize-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0767-reorganize-string) |
+| [1207-unique-number-of-occurrences](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1207-unique-number-of-occurrences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
