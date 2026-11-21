@@ -158,6 +158,7 @@ Feel free to explore, learn, or compare approaches.
 | [0104-maximum-depth-of-binary-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
@@ -181,6 +182,7 @@ Feel free to explore, learn, or compare approaches.
 | [0104-maximum-depth-of-binary-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Greedy
@@ -398,6 +400,7 @@ Feel free to explore, learn, or compare approaches.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Graph Theory
 |  |
