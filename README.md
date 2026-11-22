@@ -292,6 +292,7 @@ Feel free to explore, learn, or compare approaches.
 | [0171-excel-sheet-column-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2520-count-the-digits-that-divide-a-number) |
