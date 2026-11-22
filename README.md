@@ -126,6 +126,7 @@ Feel free to explore, learn, or compare approaches.
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2390-removing-stars-from-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2390-removing-stars-from-a-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Hash Table
 |  |
@@ -270,6 +271,7 @@ Feel free to explore, learn, or compare approaches.
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2390-removing-stars-from-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2390-removing-stars-from-a-string) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2974-minimum-number-game) |
 ## Database
@@ -376,6 +378,7 @@ Feel free to explore, learn, or compare approaches.
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2390-removing-stars-from-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2390-removing-stars-from-a-string) |
 ## Quicksort
 |  |
 | ------- |
