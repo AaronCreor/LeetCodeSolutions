@@ -125,6 +125,7 @@ Feel free to explore, learn, or compare approaches.
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Hash Table
 |  |
