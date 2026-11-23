@@ -167,6 +167,7 @@ Feel free to explore, learn, or compare approaches.
 | [0226-invert-binary-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0872-leaf-similar-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -180,6 +181,7 @@ Feel free to explore, learn, or compare approaches.
 | [0547-number-of-provinces](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0841-keys-and-rooms) |
+| [0872-leaf-similar-trees](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0872-leaf-similar-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -192,6 +194,7 @@ Feel free to explore, learn, or compare approaches.
 | [0226-invert-binary-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0872-leaf-similar-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Greedy
 |  |
