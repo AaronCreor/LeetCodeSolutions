@@ -28,6 +28,7 @@ Feel free to explore, learn, or compare approaches.
 | [0075-sort-colors](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
@@ -138,6 +139,7 @@ Feel free to explore, learn, or compare approaches.
 | [0128-longest-consecutive-sequence](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0268-missing-number) |
@@ -236,6 +238,7 @@ Feel free to explore, learn, or compare approaches.
 | [0049-group-anagrams](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0242-valid-anagram) |
@@ -252,6 +255,7 @@ Feel free to explore, learn, or compare approaches.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0767-reorganize-string) |
@@ -445,6 +449,7 @@ Feel free to explore, learn, or compare approaches.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
@@ -456,4 +461,8 @@ Feel free to explore, learn, or compare approaches.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
