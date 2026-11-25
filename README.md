@@ -39,6 +39,7 @@ Feel free to explore, learn, or compare approaches.
 | [0506-relative-ranks](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0506-relative-ranks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0704-binary-search) |
@@ -146,6 +147,7 @@ Feel free to explore, learn, or compare approaches.
 | [0347-top-k-frequent-elements](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0621-task-scheduler](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0767-reorganize-string) |
 | [1207-unique-number-of-occurrences](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1207-unique-number-of-occurrences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -206,6 +208,7 @@ Feel free to explore, learn, or compare approaches.
 | [0334-increasing-triplet-subsequence](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0767-reorganize-string) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -246,6 +249,7 @@ Feel free to explore, learn, or compare approaches.
 | [0347-top-k-frequent-elements](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0506-relative-ranks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0767-reorganize-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -258,6 +262,7 @@ Feel free to explore, learn, or compare approaches.
 | [0169-majority-element](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0767-reorganize-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Sliding Window
@@ -374,6 +379,7 @@ Feel free to explore, learn, or compare approaches.
 | [0215-kth-largest-element-in-an-array](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/1046-last-stone-weight) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
