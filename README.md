@@ -130,6 +130,7 @@ Feel free to explore, learn, or compare approaches.
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2390-removing-stars-from-a-string) |
+| [3019-number-of-changing-keys](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3019-number-of-changing-keys) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Hash Table
 |  |
