@@ -65,6 +65,7 @@ Feel free to explore, learn, or compare approaches.
 | [2500-delete-greatest-value-in-each-row](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2974-minimum-number-game) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -130,6 +131,7 @@ Feel free to explore, learn, or compare approaches.
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2390-removing-stars-from-a-string) |
+| [2942-find-words-containing-character](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3019-number-of-changing-keys) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Hash Table
