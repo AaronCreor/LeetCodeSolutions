@@ -26,6 +26,7 @@ Feel free to explore, learn, or compare approaches.
 | [0049-group-anagrams](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0169-majority-element) |
@@ -96,6 +97,7 @@ Feel free to explore, learn, or compare approaches.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/AaronCreor/LeetCodeSolutions/tree/master/0647-palindromic-substrings) |
